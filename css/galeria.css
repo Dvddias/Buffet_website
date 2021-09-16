@@ -1,0 +1,34 @@
+.galeria2{
+    width: 70%;
+    height: 480px;
+    margin: 20px auto;
+}
+
+.galeria_fotos{
+    list-style: none;
+    margin: 0 auto;
+    padding: 50px;
+}
+.galeria_fotos li{
+    display: block;
+    float: left;
+    margin: 3px;
+    position: relative;
+}
+
+.galeria_fotos img{
+    width: 200px;
+    height: 165px;
+    padding: 5px;
+    border: 3px solid rgb(242, 247, 248);
+    
+}
+
+.aumentar:hover{
+    transform: scale(1.5);
+    z-index: 5;
+}
+#galeriap{
+    font-size: 1.3em;
+    font-family: 'Arima Madurai', cursive;
+}

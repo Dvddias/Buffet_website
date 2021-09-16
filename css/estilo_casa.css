@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+
+#lateral_casa{
+     display: block; 
+    float: left;
+    margin: 7px auto;
+    padding: 10px; 
+    height: auto; 
+    width: auto; 
+    max-width: 480px; 
+    max-height: 480px;
+    margin-top: 30px;
+
+} 
+h2{
+    text-align: center;
+    margin-top: -40px;
+}
+
+#casa {
+    text-align: justify;
+    font-size: 1.3em;
+    display: block;
+    width: 47%;
+    float:left;
+    margin: 7px auto;
+    font-family: 'Arima Madurai', cursive;
+    
+}
+    
+  
+

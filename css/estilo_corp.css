@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+ aside img{
+    display: block; 
+    float: left;
+    margin: 7px auto;
+    padding: 10px; 
+    height: auto; 
+    width: auto; 
+    max-width: 480px; 
+    max-height: 480px;
+    margin-top: 30px;
+    
+} 
+
+#corp{
+    text-align: justify;
+    font-size: 1.3em;
+    display: block;
+    
+    float:left;
+    margin: 7px auto;
+    font-family: 'Arima Madurai', cursive;
+}

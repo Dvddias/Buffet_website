@@ -1,0 +1,181 @@
+@charset " UTF-8";
+
+/* *{
+    margin: 0px;
+    padding: 0%;
+} */
+body{
+    background: rgb(183,110,121);
+    background: linear-gradient(150deg, rgba(183,110,121,1) 11%, rgba(192,192,192,1) 54%, rgba(191,136,142,1) 78%);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+#main{
+    
+    width: 1200px;
+    margin: -8px auto 0px auto;
+
+}
+
+.daniels{
+    font-size: 2.3em;
+    position: relative;
+    
+   text-align: center;
+   text-indent: 20px;
+   font-family: 'Ultra', serif;
+}
+
+.topo
+{
+    height: 150px;
+
+}
+
+
+.menu{
+    width: 700px;
+    display: block;
+    position: absolute;
+    top: 100px;
+    margin-left: 29%;
+    z-index: 100; 
+    font-size: 1.2em;
+    /* padding: -1px; */
+    
+    
+}
+
+ .menu ul{ 
+
+    text-decoration:none;
+    list-style: none;
+    font-size: 1.1em;
+    margin: 0px;
+    padding: 00px;
+ } 
+
+.menu li{
+    float: left;
+    
+}
+
+.menu li a{
+    text-decoration: none;
+    color: antiquewhite;
+    /* background: #ee8b8a; */
+    padding: 15px 25px;
+    margin: 0px;
+    display: block;
+}
+
+.menu li a:hover{
+    background: #c0c0c0;
+    color: black;
+    
+}
+.menu li ul {
+    display: none;
+    font-size: 1.1em;
+}
+
+.menu li:hover ul
+{
+    display: block;
+    position: absolute;
+}
+.menu li:hover li{
+    float: none;
+}
+
+
+/*BANNER*/
+
+#banner_menu{
+    position: relative;
+    display:flex;
+    width: 100%;
+    height: 350px;
+    margin-top: -23px;
+   
+}
+#banner_menu img {
+    position: absolute;
+     transition-property:opacity;
+    transition-duration: 1s;
+    transition-timing-function: ease-in-out;}
+
+#casamento1, #festa1:hover{
+    opacity: 1;
+}
+
+#casamento1:hover,#festa1{
+    opacity: 0;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+}
+
+    
+h2{
+    text-align:center;
+    color: rgb(14, 1, 1);
+    font-size: 1.6em;
+    margin-left: 3px;
+}
+
+#lateral_sobre{
+    display: block;
+    float: right;
+    margin: 7px auto;
+    padding: 10px;
+    height: auto; 
+    width: auto; 
+    max-width: 330px; 
+    max-height: 330px;
+      
+}
+.sobrep{
+    text-align: left;
+    font-size: 1.2em;
+    text-indent: 20px;
+    font-family: 'Arima Madurai', cursive;
+
+    
+}
+
+span a{
+    color: rgb(8, 8, 8);
+    text-decoration :solid; 
+    border-style:groove;
+    border-color: black;
+    border-radius: 15px;
+    
+}
+
+span a:hover{
+    color: rgb(255, 254, 255);
+    
+}
+
+
+.rodape{
+    clear: both;
+    border-top: 2px solid #ee8b8a;
+}
+
+.rodape p{
+    text-align: center;
+    font-size: 1.3em;
+    color: rgb(5, 5, 5);
+    
+
+}
+
+.rodape p a{
+    text-decoration: none;
+}
+
