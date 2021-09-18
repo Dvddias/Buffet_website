@@ -18,7 +18,7 @@
 
 .galeria_fotos img{
     width: 200px;
-    height: 165px;
+    height: 265px;
     padding: 5px;
     border: 3px solid rgb(242, 247, 248);
     
@@ -29,6 +29,6 @@
     z-index: 5;
 }
 #galeriap{
+    text-align: center;
     font-size: 1.3em;
     font-family: 'Arima Madurai', cursive;
-}
