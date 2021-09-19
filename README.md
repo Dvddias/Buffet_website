@@ -1,11 +1,8 @@
-https://img.shields.io/website?url=https%3A%2F%2Fdvddias.github.io%2FBuffet_website%2F
-https://img.shields.io/w3c-validation/html?style=plastic&targetUrl=https%3A%2F%2Fdvddias.github.io%2FBuffet_website%2Fcasamento.html
-
+![W3C Validation](https://img.shields.io/w3c-validation/html?style=plastic&targetUrl=https%3A%2F%2Fdvddias.github.io%2FBuffet_website)
 
 # Buffet_website
 
-https://img.shields.io/website?url=https%3A%2F%2Fdvddias.github.io%2FBuffet_website%2F
-https://img.shields.io/w3c-validation/html?style=plastic&targetUrl=https%3A%2F%2Fdvddias.github.io%2FBuffet_website%2Fcasamento.html
+
 
 
 
