@@ -1,5 +1,6 @@
 ![W3C Validation](https://img.shields.io/w3c-validation/html?style=plastic&targetUrl=https%3A%2F%2Fdvddias.github.io%2FBuffet_website)
-
+![GitHub](https://img.shields.io/github/license/Dvddias/Buffet_website)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fdvddias.github.io%2FBuffet_website)
 # Buffet_website
 
 
