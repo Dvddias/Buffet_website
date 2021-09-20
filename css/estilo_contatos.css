@@ -1,0 +1,55 @@
+@charset "UTF-8";
+
+
+form{
+    width: 80%;
+    margin: auto;
+}
+
+input, textarea{
+    border-color: black;
+    background: #fff;
+    font-size: 0.7em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+input:hover, textarea:hover{
+    background: #ccc;
+}
+
+
+legend{
+    color: black;
+    font-size: 1.1em;
+    font-weight: bold;
+}
+
+#sexo{
+    width: 25%;
+}
+
+fieldset{
+    border-color: black;
+    margin: 20px;
+}
+
+.btn{
+    background: black;
+    padding: 10px;
+    margin: 5px;
+    font-size: 1.0em;
+    border: none;
+    color: #fff;
+    font-weight: bold;
+    position: relative;
+    display: inline-block;
+    left: 80%;
+    
+}
+
+.btn:hover{
+    background: rgb(183,110,121);
+background: linear-gradient(150deg, rgba(183,110,121,1) 11%, rgba(192,192,192,1) 54%, rgba(191,136,142,1) 78%);
+color: black;
+
+}
